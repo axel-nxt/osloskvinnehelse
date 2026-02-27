@@ -25,7 +25,7 @@ const TechnicalAnalysis = () => {
                     className="section-header"
                 >
                     <span className="badge badge-warning">Steg 1</span>
-                    <h2>Teknisk Tilstand (Screaming Frog Analyse)</h2>
+                    <h2>Teknisk Tilstand</h2>
                     <p className="subtitle">
                         Dette er helsen til selve nettsiden din. En rask og feilfri nettside er grunnmuren for å lykkes i Google.
                     </p>
